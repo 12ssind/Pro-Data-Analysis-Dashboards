@@ -21,6 +21,7 @@
 9. percentage of sales by pizza size?
 10.Top 5 best sellers by total pizzas sold?
 11.Bottom 5 worst sellers by total pizzas sold?
+- Dahboard Intraction <a href="https://github.com/12ssind/Pro-Data-Analysis-Dashboards/blob/main/pro1.png"> View Dashboard</a>   
 
 ## Process  
 

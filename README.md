@@ -6,7 +6,7 @@
 
 
 ## Dataset
-- <a herf="https://github.com/12ssind/Pro-Data-Analysis-Dashboards/blob/main/1000.xlsx">pizza_sales_dataset</a>
+- <a href="https://github.com/12ssind/Pro-Data-Analysis-Dashboards/blob/main/1000.xlsx">dataset</a>
 
 ## Questions(Key Performs Indicator)
 

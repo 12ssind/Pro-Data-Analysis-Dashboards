@@ -21,17 +21,18 @@
 9. percentage of sales by pizza size?
 10.Top 5 best sellers by total pizzas sold?
 11.Bottom 5 worst sellers by total pizzas sold?
-- Dahboard Intraction <a href="https://github.com/12ssind/Pro-Data-Analysis-Dashboards/blob/main/pro1.png"> View Dashboard</a>   
+- Dashboard Intraction <a href="https://github.com/12ssind/Pro-Data-Analysis-Dashboards/blob/main/pro1.png"> View Dashboard</a>   
 
 ## Process  
 
-*verify data for any missing values and anomalies, and sort out the same.
-*Made sure data is consistent and clean with respect to data type,data formate and vlues used.
-*when using sql then crete calclution and tables and fillters are created .
-*created pivot tables according to the questions asked.
-*Merge all pivot tables into one dashboard and apply slicer to make Dynamic.
+- verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type,data formate and vlues used.
+- when using sql then crete calclution and tables and fillters are created .
+- created pivot tables according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make Dynamic.
 
 ## Dashboard
+- ![pro1](https://github.com/user-attachments/assets/c18e3a37-23f8-4a36-bc8a-e6246ec1b68a)
 
 
 ## Project Insight

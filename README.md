@@ -44,8 +44,8 @@
 * 21350 of Total orders sold
 
 ## Tools 
-  SQL Woekplace - Dataset cleanniing
-  EXCEL -  Create pivot Table and Intractive Dashboard
+  - SQL Woekplace - Dataset cleanniing
+  - EXCEL -  Create pivot Table and Intractive Dashboard
  
 
 

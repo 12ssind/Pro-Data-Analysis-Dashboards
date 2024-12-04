@@ -44,6 +44,10 @@
 * 21350 of Total orders sold
 
 ## Tools 
+  SQL Woekplace - Dataset cleanniing
+  EXCEL -  Create pivot Table and Intractive Dashboard
+  - ![th (1)](https://github.com/user-attachments/assets/87381761-28ff-4037-bdac-e8935a747e2c) ![th](https://github.com/user-attachments/assets/e7a1b0f9-0217-4a4a-890f-79ff0210e172)
+
 
 
 ## Final conclution

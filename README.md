@@ -47,7 +47,5 @@
   - SQL Woekplace - Dataset cleanniing
   - EXCEL -  Create pivot Table and Intractive Dashboard
  
-
-
-
 ## Final conclution
+ THe pizza sales dashboard analysis has provided actionable insights into consumer behavior, top-performing products, and sales patterns. By leveraging these findings, the company can refine its sales strategy, optimize product offerings, and tailor marketing efforts to drive growth and profitability in the future.

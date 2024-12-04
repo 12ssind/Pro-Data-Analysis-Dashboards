@@ -36,10 +36,11 @@
 
 
 ## Project Insight
-*
-*
-*
-*
-*
+* Total profit of pizza sales is $817,860.5
+* Orders are hight on weekends , friday anf satuarday evening.
+* Classic catgeory is more contribute to maximum sales and orders(26.91%).
+* Large pizza size contribute to maximun sales(30.50%).
+* chicken pizza and chicken deuxe are TOP salers and revenue generators.
+* 21350 of Total orders sold
 
 ## Final conclution

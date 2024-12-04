@@ -46,6 +46,7 @@
 ## Tools 
   - SQL Woekplace - Dataset cleanniing
   - EXCEL -  Create pivot Table and Intractive Dashboard
+  - https://excel.cloud.microsoft/?wdOrigin=MARKETING.FREE.GO-TO-EXCEL
  
 ## Final conclution
  The pizza sales dashboard analysis has provided actionable insights into consumer behavior, 
